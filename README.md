@@ -22,6 +22,8 @@ Here are some ideas to get you started:
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=ronanb3&countColor=%232ccce4)
   
 
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+
 
 ### Technology
 <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"/>
@@ -30,31 +32,19 @@ Here are some ideas to get you started:
   <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo" title="c" />
   <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo" title="bash" />
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo" title="java" />
-  <img src="https://skillicons.dev/icons?i=gradle" height="40" alt="gradle logo" title="gradle" />
-  <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask logo" title="py flask" />
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo" title="mysql db" />
   <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="sqlite" title="sqlite db" />
   <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="Bootstrap logo" title="bootstrap" />
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html logo" title="html" />
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo" title="css" />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="js logo" title="js" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="ts logo" title="ts" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwind logo" title="tailwind" />
-  <img src="https://skillicons.dev/icons?i=jquery" height="40" alt="jquery logo" title="jquery" />
   <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo" title="php" />
   <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="wordpress logo" title="wordpress" />
-  <img src="https://skillicons.dev/icons?i=latex" height="40" alt="latex logo" title="latex for maths" />
   <img src="https://skillicons.dev/icons?i=md" height="40" alt="md logo" title="markDown" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="py logo" title="py" />
   <img src="https://skillicons.dev/icons?i=regex" height="40" alt="regex logo" title="regex" />
-  <img src="https://skillicons.dev/icons?i=r" height="40" alt="r logo" title="r (studio)" />
-  <img src="https://skillicons.dev/icons?i=swift" height="40" alt="swift logo" title="swift" />
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo" title="docker" />
   <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgres logo" title="postgres" />
   <img src="https://skillicons.dev/icons?i=redhat" height="40" alt="redhat logo" title="redhat" />
-  <img src="https://skillicons.dev/icons?i=rabbitmq" height="40" alt="rabbitmq logo" title="rabbitmq" />
-  <img src="https://skillicons.dev/icons?i=svg" height="40" alt="svg logo" title="svg" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo" title="react" />
 
 </div>
 <!-- apps & editors -->
