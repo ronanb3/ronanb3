@@ -21,11 +21,13 @@ Here are some ideas to get you started:
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=ronanb3&countColor=%232ccce4)
   
-
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
-
-
 ### Technology
+[![Dev](https://skillicons.dev/icons?i=ansible,atom,bash,bootstrap,c,cpp)](https://skillicons.dev)
+[![Cloud](https://skillicons.dev/icons?i=aws,azure,gcp)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=blender)](https://skillicons.dev)
+
+
+
 <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"/>
 <div align="left"> 
   <!-- languages & others -->
