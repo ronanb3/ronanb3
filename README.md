@@ -23,7 +23,9 @@ Here are some ideas to get you started:
   
 ### Technology
 [![Dev](https://skillicons.dev/icons?i=ansible,atom,bash,bootstrap,c,cpp)](https://skillicons.dev)
+
 [![Cloud](https://skillicons.dev/icons?i=aws,azure,gcp)](https://skillicons.dev)
+
 [![Tools](https://skillicons.dev/icons?i=blender)](https://skillicons.dev)
 
 
