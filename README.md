@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=ronanb3&countColor=%232ccce4)
   
 ### Technology
-[![Dev](https://skillicons.dev/icons?i=ansible,atom,bash,bootstrap,c,cpp)](https://skillicons.dev)
+[![Dev](https://skillicons.dev/icons?i=ansible,atom,bash,bootstrap,c,cpp,CSS,flask,gtk,html,java,js,jenkins,jquery,nodejs,perl,php,terraform)](https://skillicons.dev)
 
-[![Cloud](https://skillicons.dev/icons?i=aws,azure,gcp)](https://skillicons.dev)
+[![Environment](https://skillicons.dev/icons?i=aws,azure,gcp,debian,docker,git,github,gitlab,grafana,ai,kubernetes,linux,MongoDB,MySQL,nginx,npm,openshift,PostgreSQL,redhat,ubuntu,unity,windows)](https://skillicons.dev)
 
-[![Tools](https://skillicons.dev/icons?i=blender)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=blender,discord,emacs,gmail,instagram,latex,less,LinkedIn,md,neovim,ps,postman,stackoverflow,twitter,vim,vscode,wordpress)](https://skillicons.dev)
 
 
 
