@@ -46,32 +46,21 @@ Here are some ideas to get you started:
 <tr>
   <td valign="top" width="auto" colspan="2">
     <div align="center">  
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=felttl&mode=weekly"" alt="GitHub Streak not available now" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=ronanb3&mode=weekly"" alt="GitHub Streak not available now" />
     </div>
   </td>
 </tr>
 </table>
 
-
-
-#### ❤️ my passion
-
-- desktop dev
-- mobile dev
-- web dev
-- game dev
-
 #### 📫 How to reach me :
-######  for reply or any questions, it's still available anytime (github official)<br>
-&nbsp;     
-<a target="_blank" href="mailto:must0second0unnamed64@gmail.com">
+<a target="_blank" href="mailto:ronanb3@gmail.com">
   <img alt="E-mail" src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
-
-[tech details](https://github.com/felttl/root/blob/main/README.md)
-
 <div align="left">
-  <a href="https://www.linkedin.com/in/félix-tôn-thât-lavarini-63ab6033b" title="only professional !" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin logo" title="linkedin" />
+  <a href="https://www.linkedin.com/in/ronanbourlier" title="only professional !" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin logo" title="linkedin" />
   </a>
 </div>
+
+<br/>
+*Profile inspired freely [felttl profile](https://github.com/felttl)*
